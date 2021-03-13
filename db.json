@@ -31,118 +31,6 @@
       "quantityPerUnit": "36 boxes",
       "unitPrice": "21",
       "unitsInStock": 0
-    },
-    {
-      "id": 6,
-      "categoryId": 2,
-      "productName": "Grandma's Boysenberry Spread",
-      "quantityPerUnit": "12 - 8 oz jars",
-      "unitPrice": 25,
-      "unitsInStock": 120
-    },
-    {
-      "id": 7,
-      "categoryId": 7,
-      "productName": "Uncle Bob's Organic Dried Pears",
-      "quantityPerUnit": "12 - 1 lb pkgs.",
-      "unitPrice": 30,
-      "unitsInStock": 15
-    },
-    {
-      "id": 8,
-      "categoryId": 2,
-      "productName": "Northwoods Cranberry Sauce",
-      "quantityPerUnit": "12 - 12 oz jars",
-      "unitPrice": 40,
-      "unitsInStock": 100
-    },
-    {
-      "id": 9,
-      "categoryId": 6,
-      "productName": "Mishi Kobe Niku",
-      "quantityPerUnit": "18 - 500 g pkgs.",
-      "unitPrice": 97,
-      "unitsInStock": 29
-    },
-    {
-      "id": 10,
-      "categoryId": 8,
-      "productName": "Ikura",
-      "quantityPerUnit": "12 - 200 ml jars",
-      "unitPrice": 31,
-      "unitsInStock": 31
-    },
-    {
-      "id": 11,
-      "categoryId": 4,
-      "productName": "Queso Cabrales",
-      "quantityPerUnit": "1 kg pkg.",
-      "unitPrice": 21,
-      "unitsInStock": 22
-    },
-    {
-      "id": 12,
-      "categoryId": 4,
-      "productName": "Queso Manchego La Pastora",
-      "quantityPerUnit": "10 - 500 g pkgs.",
-      "unitPrice": 38,
-      "unitsInStock": 86
-    },
-    {
-      "id": 13,
-      "categoryId": 8,
-      "productName": "Konbu",
-      "quantityPerUnit": "2 kg box",
-      "unitPrice": 6,
-      "unitsInStock": 24
-    },
-    {
-      "id": 14,
-      "categoryId": 7,
-      "productName": "Tofu",
-      "quantityPerUnit": "40 - 100 g pkgs.",
-      "unitPrice": 23.25,
-      "unitsInStock": 35
-    },
-    {
-      "id": 15,
-      "categoryId": 2,
-      "productName": "Genen Shouyu",
-      "quantityPerUnit": "24 - 250 ml bottles",
-      "unitPrice": 15.5,
-      "unitsInStock": 39
-    },
-    {
-      "id": 16,
-      "categoryId": 3,
-      "productName": "Pavlova",
-      "quantityPerUnit": "32 - 500 g boxes",
-      "unitPrice": 17.45,
-      "unitsInStock": 29
-    },
-    {
-      "id": 17,
-      "categoryId": 6,
-      "productName": "Guiza",
-      "quantityPerUnit": "20 - 1 kg tins",
-      "unitPrice": 39,
-      "unitsInStock": 0
-    },
-    {
-      "id": 18,
-      "categoryId": 8,
-      "productName": "Carnarvon Tigers",
-      "quantityPerUnit": "16 kg pkg.",
-      "unitPrice": 62.5,
-      "unitsInStock": 42
-    },
-    {
-      "id": 19,
-      "categoryId": 3,
-      "productName": "Teatime Chocolate Biscuits",
-      "quantityPerUnit": "10 boxes x 12 pieces",
-      "unitPrice": 9.2,
-      "unitsInStock": 25
     }
   ],
   "categories": [
@@ -166,7 +54,6 @@
       "categoryName": "Dairy Products",
       "seoUrl": "dairy-products"
     }
-
   ]
   "shopingCard": [
     {
